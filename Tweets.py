@@ -114,10 +114,10 @@ def getTrends(WOEID):
     names = [trend['name'] for trend in trends] #Récupère l'élément 'name' de chaque tendance
     return names
     
-CONSUMER_KEY = 'aQwJP4kxuRRrbOblx4DuXrFGk'
-CONSUMER_SECRET = 'mQilj1fiZ4cDqehXDegrGK8URfvxZgTplH7z4ZJHsYMXYjs50N'
-ACCESS_KEY = '874999178056933376-4OyTKX8gneHJ93yUr6j8XPcUjzAmhZ8'
-ACCESS_SECRET = 'GtOFxjeG4vxGKtR3dk6zDX6bR701jgU9DiTQAET2FhoTi'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 
 PARIS_WOEID = 615702
 NEW_YORK_WOEID = 2459115
